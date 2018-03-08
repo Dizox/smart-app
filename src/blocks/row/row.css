@@ -8,6 +8,12 @@
     align-items: flex-end;
 }
 
+@media screen and (max-width: 900px){
+    .row_subcribe{
+        flex-direction: column;
+    }
+}
+
 @media screen and (max-width: 980px){
     .row_flex-end{
         flex-direction: column;

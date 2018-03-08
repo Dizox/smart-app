@@ -20,6 +20,19 @@
     color: #ffffff;
 }
 
+.link_footer{
+    padding-top: 12px;
+    color: #b86365;
+    padding-left: 120px;
+}
+
+.link__quick-link{
+    border-bottom: #2f384b solid 1px;
+    padding-bottom: 10px;
+    margin-top: 15px;
+    display: block;
+}
+
 @media screen and (max-width: 920px){
     .link_header{
         padding-bottom: 25px;
